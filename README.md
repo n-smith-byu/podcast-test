@@ -8,6 +8,11 @@ Certificate: [LinkedIn Learning](https://www.linkedin.com/learning/certificates/
 
 _____________
 
+> [!NOTE]
+> This code exists merely to test the GitHub Action in the [podcast-generator](https://github.com/n-smith-byu/podcast-generator) repository.
+
+_____________
+
 
 ## The Future in Tech
 
