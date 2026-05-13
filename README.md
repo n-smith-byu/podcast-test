@@ -1,9 +1,15 @@
-*This Project follows the Career Essentials in GitHub Professional Certificate course through LinkedIn Learning.*
+# Podcast Generator Test
 
-Certificate:
-[Link](https://www.linkedin.com/learning/certificates/b242bd62206232b9159db18ec1efcc58a827d3e6369ffd0a7116e15172392c88?trk=share_certificate)
+*This Project was part of the **Career Essentials in GitHub Professional Certificate** through LinkedIn Learning.*
 
-# The Future in Tech
+Course: **Practical GitHub Actions**, by Ray Villalobos
+
+Certificate: [LinkedIn Learning](https://www.linkedin.com/learning/certificates/b242bd62206232b9159db18ec1efcc58a827d3e6369ffd0a7116e15172392c88?trk=share_certificate)
+
+_____________
+
+
+## The Future in Tech
 
 <img src="https://raybo.org/tfit-feed/images/artwork.jpg" width="250">
 
