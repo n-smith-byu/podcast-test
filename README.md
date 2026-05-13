@@ -1,3 +1,5 @@
+*This Project follows the Career Essentials in GitHub Professional Certificate course through LinkedIn Learning.*
+
 # The Future in Tech
 
 <img src="https://raybo.org/tfit-feed/images/artwork.jpg" width="250">
