@@ -1,6 +1,6 @@
 *This Project follows the Career Essentials in GitHub Professional Certificate course through LinkedIn Learning.*
 
-Certificate here: 
+Certificate here:
 
 # The Future in Tech
 
